@@ -1,0 +1,12 @@
+# Node
+node_modules/
+dist/
+npm-debug.log*
+
+# Rust
+target/
+**/*.rs.bk
+
+# OS & Env
+.env
+.DS_Store
